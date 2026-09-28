@@ -1,0 +1,74 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "survey2report"
+version = "0.1.0"
+description = "Turn a folder of messy survey CSVs into clean, charted PowerPoint reports."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "survey2report contributors" }]
+keywords = ["survey", "csv", "data-cleaning", "eda", "visualization", "powerpoint", "cli"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering :: Information Analysis",
+  "Typing :: Typed",
+]
+dependencies = [
+  "pandas>=2.0,<3",
+  "numpy>=1.24",
+  "matplotlib>=3.7",
+  "python-pptx>=0.6.23",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4", "ruff>=0.6"]
+
+[project.urls]
+Homepage = "https://github.com/your-org/survey2report"
+Issues = "https://github.com/your-org/survey2report/issues"
+
+[project.scripts]
+survey2report = "survey2report.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+survey2report = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["error::FutureWarning"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = [
+  "E", "W", "F", "I", "B", "C4", "UP", "SIM", "PTH", "RET", "D", "NPY", "ANN",
+]
+ignore = ["D203", "D213", "D401"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.per-file-ignores]
+# Test names and fixtures are their own documentation.
+"tests/*" = ["D", "ANN"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["survey2report"]

@@ -2,7 +2,7 @@
 
 **Drop a folder of messy survey CSVs in, get a polished PowerPoint report out.**
 
-[![CI](https://github.com/your-org/survey2report/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/survey2report/actions/workflows/ci.yml)
+[![CI](https://github.com/Paurash324/survey2report/actions/workflows/ci.yml/badge.svg)](https://github.com/Paurash324/survey2report/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 
@@ -37,7 +37,7 @@ survey2report --input ./data --output ./output
 ## Install
 
 ```bash
-git clone https://github.com/your-org/survey2report
+git clone https://github.com/Paurash324/survey2report
 cd survey2report
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
@@ -117,6 +117,7 @@ Findings the tool produced for `examples/output/employee_engagement_2024/`:
 > - Most common would_recommend: Yes (35% of responses)
 > - Strongest relationship: engagement_score ↔ manager_support (r = +0.88, strong positive)
 > - Highest tenure_yrs by department: Support (6.4) vs Marketing (4.3)
+> - Highest engagement_score by role: Individual Contributor (3.5) vs Team Lead (3.0)
 > - 7 duplicate rows were removed during cleaning
 
 Each generated deck has 11 slides: cover, key findings, five chart slides, methodology, and

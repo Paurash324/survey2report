@@ -1,0 +1,188 @@
+Employee ID,Department ,tenure_yrs,Role,Engagement Score,manager_support,Would Recommend,survey_date,Comments
+E1000, Support,5,Individual Contributor,3,3, Maybe,"May 18, 2024",
+E1001,Finance,0,Manager,-,3,No,06/07/2024,"Great team, poor tooling."
+E1002,Marketing,0,Manager,4,5,Yes,03/22/2024,Manager is supportive and clear.
+E1003,support,12,team lead, ,3,Maybe,2024-05-17,"Great team, poor tooling."
+E1004,Support,5,Manager ,1,null,Yes,05-Mar-2024,
+E1005,FINANCE,0,manager,1,1,No ,07-May-2024,
+E1006,Sales,7,individual contributor,5,n/a,Maybe,17-Apr-2024,
+E1007,support,11,Team Lead,4,3,No,29-Apr-2024,
+E1008,Support,5,Manager,4 - Agree,3,yes,28-Jun-2024,
+E1009,support,11,Manager,5,5,No,04/26/2024,Workload is too high right now.
+E1010,Support,9, Manager,5,5,No,"Apr 25, 2024",
+E1011,Marketing,7,Manager,1,1,Yes,2024-04-04,
+E1012,Sales,12, Team Lead,1,1,Yes,23-Apr-2024,
+E1013,Support,1,Individual Contributor,2,NaN,No,12-Apr-2024,
+E1014,marketing,7,Manager,-,N/A,No,11/04/2024,
+E1015,Sales,10,Director,5,5,MAYBE,2024-03-11,Needs better career pathing.
+E1016,engineering,9,Team Lead,1 - Strongly disagree,1,No,10-Jun-2024,
+E1017,Finance,10,manager,2,3,Yes,"Apr 28, 2024",
+E1018,Sales,0, Individual Contributor,2 - Disagree,2,Yes,21/05/2024,
+E1019,ENGINEERING,3,Manager ,4,N/A,YES,26-Jun-2024,
+E1020,Marketing,11,Manager,null,1,No,19-Jun-2024,
+E1021,Marketing,0,individual contributor,4,5,No,09/03/2024,
+E1022,Finance,12,manager,3,n/a,MAYBE,05-Mar-2024,"Love the mission, pay is below market."
+E1023,Marketing,11,Director,5,5,Yes,04/29/2024,
+E1024,Marketing,1,Director,5,4,MAYBE,17/04/2024,Manager is supportive and clear.
+E1025,engineering,9,Director,5 - Strongly agree,4,maybe,2024-03-08,Needs better career pathing.
+E1026,Engineering,3,Manager,4,4,no,28-Jun-2024,Manager is supportive and clear.
+E1027,Engineering,2,Director,1,1,MAYBE,"Mar 29, 2024",
+E1028,Engineering,9,Team Lead,5,5,yes,03/04/2024,Needs better career pathing.
+E1029,Sales ,11,Director,3 - Neutral,3,No,28/04/2024,
+E1030, Sales,0,Individual Contributor,4,4,No,03/19/2024,
+E1031,Support,6,Individual Contributor ,3,4,yes,10/03/2024,
+E1032,Marketing,4, Individual Contributor,4,3,No,"Jun 22, 2024","Love the mission, pay is below market."
+E1033,Support,8,Team Lead,5,4,No,2024-04-20,Workload is too high right now.
+E1034,Support,7,Director,4,3,Maybe,06/23/2024,
+E1035,Marketing,0,Individual Contributor,5,-,maybe,01/06/2024,
+E1036,MARKETING,3,Manager,1,1,Yes,20-May-2024,
+E1037,Finance,11,Director,3,3,Yes,27/04/2024,"Love the mission, pay is below market."
+E1038,Finance,9, Individual Contributor,4 - Agree,5,Maybe,06/06/2024,
+E1039,Support,8,manager,4,4,no,2024-03-25,
+E1040,Finance,0, Manager,4,5,Maybe,04/29/2024,Needs better career pathing.
+E1041,Finance ,5,INDIVIDUAL CONTRIBUTOR,5 - Strongly agree,5, Yes,27/05/2024,Workload is too high right now.
+E1042,Marketing, ,Individual Contributor,4,3,Yes,05/12/2024,Manager is supportive and clear.
+E1043,sales,1,manager,2,,Yes,2024-04-20,Manager is supportive and clear.
+E1044,SALES,1,Manager,3,4, Maybe,06/26/2024,
+E1045,Engineering,8, Director,4 - Agree,5,Yes,"Jun 22, 2024",Needs better career pathing.
+E1046,Engineering,6,Individual Contributor ,2,NaN,No,24-Mar-2024,
+E1047,ENGINEERING,12,Individual Contributor,N/A,3,MAYBE,2024-04-21,
+E1048,Support,11,Team Lead,2 - Disagree,2,Yes ,24-May-2024,"Great team, poor tooling."
+E1049,Support,7,Director,4,3,Yes,27/06/2024,"Great team, poor tooling."
+E1050,Support,11,Manager,3,3, Maybe,2024-06-13,"Great team, poor tooling."
+E1051,Support,8,Individual Contributor,5 - Strongly agree,-,No,"Mar 22, 2024",
+E1052,Engineering ,5,Manager,5,5, Yes,"Mar 07, 2024",
+E1053,Support,2,individual contributor, ,2,Yes,03/14/2024,
+E1054,MARKETING,10,TEAM LEAD,2,2,No,2024-03-29,"Love the mission, pay is below market."
+E1055,Engineering,7,Manager,2,3,yes,05/16/2024,
+E1056,Sales,10,team lead,4,4,Maybe,2024-03-11,"Love the mission, pay is below market."
+E1057,support,8,Manager,1,1,Maybe,"May 03, 2024","Great team, poor tooling."
+E1058,Finance,2,Manager,1,1,Maybe,18-Apr-2024,
+E1059,Sales,3,Team Lead ,1,1,Maybe,17/06/2024,
+E1060,Support,3,DIRECTOR,4,4, No,05-Mar-2024,"Love the mission, pay is below market."
+E1061,Finance,5,Individual Contributor,5 - Strongly agree,5, No,11/04/2024,
+E1062,finance,8,individual contributor,1,1,Maybe,26/06/2024,
+E1063,Sales,6,Manager,,4,No,"Jun 22, 2024",Workload is too high right now.
+E1064,Finance,1,team lead,1,1,Yes,2024-04-08,"Love the mission, pay is below market."
+E1065,Finance,10,individual contributor,2,1,Yes,28/06/2024,Needs better career pathing.
+E1066,Sales,1,Individual Contributor,4 - Agree,5,Maybe,03-May-2024,"Love the mission, pay is below market."
+E1067,Marketing,5, Director,3 - Neutral, ,Yes,03/30/2024,Manager is supportive and clear.
+E1068,Sales,8, Manager,n/a,3,maybe,"Jun 25, 2024",
+E1069,finance,5,Manager,4,4,No,10/05/2024,"Love the mission, pay is below market."
+E1070,Sales,0,Manager,2,2,Maybe,"Mar 21, 2024","Great team, poor tooling."
+E1071,support,5,MANAGER,?,2, No,"Jun 19, 2024","Love the mission, pay is below market."
+E1072,Sales,6,INDIVIDUAL CONTRIBUTOR,5,5,yes,25-Jun-2024,Workload is too high right now.
+E1073,Support,3,DIRECTOR,4,4,No,05/28/2024,
+E1074,finance,0,Director,2 - Disagree,3,Maybe,05/07/2024,
+E1075,Engineering,7,Director,4,null,no,16-May-2024,
+E1076,Sales,8,Team Lead,4,4,No,"Jun 04, 2024",
+E1077, Engineering,0,Team Lead,4 - Agree,5,No,"Jun 29, 2024",
+E1078,Sales,11,manager,4,4,MAYBE,"May 29, 2024",Workload is too high right now.
+E1079,Marketing ,1,Manager,4,3,No ,2024-06-05,Workload is too high right now.
+E1080, Engineering,0,Team Lead,4 - Agree,3,NO,2024-03-13,Needs better career pathing.
+E1081,Sales ,1,Director,5,5,Yes,03-Jun-2024,
+E1082,Sales,10,Individual Contributor,3 - Neutral,3, No,"Mar 08, 2024",
+E1083,Sales,1,director,5,5,No,05/01/2024,
+E1084,Engineering,6,Individual Contributor,5,5, Yes,"May 05, 2024",
+E1085,support,1,Team Lead,5 - Strongly agree,5,Maybe ,2024-06-19,
+E1086,MARKETING,0,Individual Contributor,2,3,maybe,"Apr 21, 2024",Manager is supportive and clear.
+E1087,Sales,9,Team Lead,3,3,maybe,2024-06-09,
+E1088,Marketing,2,Individual Contributor,2,1,Maybe,"Mar 04, 2024",
+E1089,Marketing ,3,Individual Contributor,4,4,yes,18/06/2024,
+E1090,Finance,NaN,Team Lead ,3 - Neutral,4,No ,06/27/2024,
+E1091,SALES,12,Team Lead ,4, ,Yes,23-Mar-2024,Needs better career pathing.
+E1092,Finance,5,Team Lead,4,5,no,"Mar 09, 2024",Workload is too high right now.
+E1093,Support,4,Manager,5,5,Yes,04-Apr-2024,
+E1094,Support,5,Director,2,1,Maybe,04/11/2024,
+E1095, Engineering,5,Director,2,3,NO,04/15/2024,
+E1096,Engineering,12,Director,4 - Agree,3,Yes,"Jun 27, 2024",
+E1097,Marketing,6,Director ,5,5,Maybe,11-Mar-2024,Workload is too high right now.
+E1098,Marketing,4,Team Lead,1,1,Maybe,"Jun 11, 2024","Great team, poor tooling."
+E1099,Finance,9,Manager,2,1,Maybe,09-Apr-2024,Needs better career pathing.
+E1100,finance,10,Team Lead,4,?, Maybe,26/03/2024,
+E1101,sales,8,Team Lead,n/a,2,No,24-Apr-2024,
+E1102,SUPPORT,12,Individual Contributor,4,4, Maybe,02/05/2024,"Love the mission, pay is below market."
+E1103,SUPPORT,0,Manager,4,3,Yes,"Jun 05, 2024",
+E1104,finance,7,Individual Contributor ,1,1, No,04/07/2024,
+E1105,Support ,10,Manager,5 - Strongly agree,4, Maybe,"May 13, 2024",
+E1106,Support ,10,Director,?,4,Yes ,28-May-2024,
+E1107,Support,11,Director ,1,2,NO,"Mar 23, 2024",Manager is supportive and clear.
+E1108, Sales,1,Team Lead,3,2,Maybe,06/06/2024,Manager is supportive and clear.
+E1109,finance,10,Director,2,2,No,2024-05-27,
+E1110, Engineering,,Team Lead , ,4,Yes,06/05/2024,Workload is too high right now.
+E1111, Engineering,0,Director,4 - Agree,5,Maybe,05/17/2024,Needs better career pathing.
+E1112,MARKETING,6,Team Lead ,1,1,YES,06/21/2024,Manager is supportive and clear.
+E1113,Marketing,1,Director ,3,3,Yes,"Jun 05, 2024",
+E1114,Engineering,6,Individual Contributor,2,3,MAYBE,29-Apr-2024,"Great team, poor tooling."
+E1115,Marketing,2,Individual Contributor,4,3,MAYBE,2024-03-08,
+E1116,Marketing,-,Director,3,2,yes,2024-03-03,
+E1117,Finance,10,Manager,2,1,Maybe,04/06/2024,
+E1118,Engineering,10,Director,2,3,YES,"May 15, 2024",
+E1119,Engineering,2,Director,4,4, Maybe,05/01/2024,"Love the mission, pay is below market."
+E1120,SUPPORT,2,Team Lead ,3,3,No,2024-04-08,
+E1121,Finance,3,Team Lead,2 - Disagree,3, No,"Jun 09, 2024","Great team, poor tooling."
+E1122,Engineering,5,Director,5,4,Yes,10-Apr-2024,
+E1123, Support,3,MANAGER,null,1,Maybe,05/26/2024,Workload is too high right now.
+E1124,Support ,6,Team Lead,4,5,No,"Jun 25, 2024",Manager is supportive and clear.
+E1125,Finance,7,team lead,4,5,MAYBE,"Apr 26, 2024",
+E1126,Support,10,Director,4 - Agree,5,maybe,15-Jun-2024,
+E1127,marketing,7,Individual Contributor,1 - Strongly disagree,2,Yes,2024-05-22,
+E1128,Support,7,Team Lead,4,3,Maybe ,08/06/2024,
+E1129,Engineering,NaN,team lead,1 - Strongly disagree,1,Maybe,"Apr 29, 2024",
+E1130,sales, ,Team Lead,2,3,No,15/03/2024,"Love the mission, pay is below market."
+E1131,support,-,Manager,5,4, Yes,06/03/2024,
+E1132,Support,11,Manager,5,5,No,05/11/2024,
+E1133,Engineering,6,manager,1,1, No,2024-06-14,
+E1134,Marketing,6,Team Lead,2, ,YES,24-Jun-2024,Workload is too high right now.
+E1135,Marketing ,12,Manager,4 - Agree,3,maybe,"May 02, 2024",
+E1136,Finance,11,Team Lead,4,4,Yes,"Mar 14, 2024",
+E1137,Marketing,6,manager,5,5,No,"May 21, 2024",
+E1138,Finance,3,manager,4 - Agree,3,Maybe ,13/05/2024,
+E1139,engineering,11,Team Lead,NaN,4,Yes,08/03/2024,
+E1140, Marketing,3,Team Lead,1,n/a,Yes,2024-06-23,
+E1141,Support ,2,Team Lead ,3,4,No,04/22/2024,"Love the mission, pay is below market."
+E1142,Sales,8,Director,2 - Disagree,2,Maybe,05/06/2024,
+E1143,support,1, Individual Contributor,1,NaN,Yes,03/18/2024,
+E1144,Support ,7, Team Lead,3,NaN,NO,"Mar 18, 2024",
+E1145,Engineering,5,Individual Contributor,5,5,Maybe,19/06/2024,"Great team, poor tooling."
+E1146,Sales,12,Manager,1,1,Yes,"Apr 14, 2024",
+E1147,ENGINEERING,8,Director,5,null,Yes,06/06/2024,
+E1148,Sales,7,TEAM LEAD,3,n/a,Yes,03/13/2024,"Love the mission, pay is below market."
+E1149,Finance,10,Director,2,2,Maybe ,14/05/2024,
+E1150,Finance,9,Director,2 - Disagree,2, Maybe,2024-03-14,Manager is supportive and clear.
+E1151,SALES,4,Team Lead,5,5,No,"May 21, 2024",
+E1152,Finance,2,Individual Contributor,5 - Strongly agree,5,Yes,22/06/2024,Manager is supportive and clear.
+E1153,SALES,9,Individual Contributor,5,5,Yes ,05/27/2024,
+E1154,FINANCE,8,Manager,3,4,Yes,15-May-2024,
+E1155,Engineering,5,Team Lead,1 - Strongly disagree,1,no,04/01/2024,
+E1156,Finance,4,MANAGER,5 - Strongly agree,5,Yes,"Mar 04, 2024",
+E1157,support,2,Director ,3,3,No,06/04/2024,
+E1158,Finance,12,DIRECTOR,5,5,no,"Jun 28, 2024","Great team, poor tooling."
+E1159,Support,12,manager,3,4,Yes,11/04/2024,
+E1160, Finance,1,INDIVIDUAL CONTRIBUTOR,4,3,Maybe,2024-03-27,
+E1161,Sales,12,Manager,2,3,YES,18-Mar-2024,
+E1162,Support,11,Director,5 - Strongly agree,5, Yes,26-May-2024,"Great team, poor tooling."
+E1163,Marketing,6, Individual Contributor,3,4,Yes,"Apr 13, 2024",Manager is supportive and clear.
+E1164,Engineering,0,DIRECTOR,3 - Neutral,NaN,no,2024-04-01,
+E1165,Marketing,2,Manager,5,5,Yes,2024-06-03,Workload is too high right now.
+E1166,Finance,1,Team Lead,?,,Maybe,03/04/2024,
+E1167,Marketing,8,Director,2,NaN,No,"Jun 10, 2024","Great team, poor tooling."
+E1168,engineering,6,Team Lead,4,3,Yes ,04/30/2024,Needs better career pathing.
+E1169,MARKETING,1,Director,4,,No,"May 03, 2024",
+E1170,marketing,4,Director,4 - Agree,5,Maybe,10-May-2024,Workload is too high right now.
+E1171,MARKETING,0,Individual Contributor,5,5,No,03/02/2024,
+E1172,Support,0,Director,4,5,NO,04/14/2024,
+E1173,SUPPORT,4, Manager,3 - Neutral,3,Yes,20-Jun-2024,Needs better career pathing.
+E1174,Sales,10,Individual Contributor,5,5, Maybe,"Jun 20, 2024",
+E1175, Marketing,2,INDIVIDUAL CONTRIBUTOR,5,5,Yes,2024-05-02,
+E1176,Engineering,0, Director,2,2,Maybe,06/11/2024,
+E1177,Sales,6,Team Lead,5 - Strongly agree,4,Yes,31-Mar-2024,
+E1178,Marketing,5,Team Lead ,1,2,Maybe,2024-04-08,Manager is supportive and clear.
+E1179,Finance,1,Individual Contributor,3,2,Maybe,07/06/2024,
+E1053,Support,2,individual contributor, ,2,Yes,03/14/2024,
+E1131,support,-,Manager,5,4, Yes,06/03/2024,
+E1033,Support,8,Team Lead,5,4,No,2024-04-20,Workload is too high right now.
+E1006,Sales,7,individual contributor,5,n/a,Maybe,17-Apr-2024,
+E1059,Sales,3,Team Lead ,1,1,Maybe,17/06/2024,
+E1156,Finance,4,MANAGER,5 - Strongly agree,5,Yes,"Mar 04, 2024",
+E1003,support,12,team lead, ,3,Maybe,2024-05-17,"Great team, poor tooling."

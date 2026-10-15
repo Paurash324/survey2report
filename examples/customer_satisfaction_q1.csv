@@ -1,0 +1,209 @@
+response_id,Customer Name,Plan,nps_score,satisfaction_(1-5),support_tickets,Annual Spend,churn_risk,response_date,feedback
+R0001,,Pro,5,2,8,$149,medium,02/02/2024,
+R0002,Grace Hopper, Team,10,5,1,$149.00,HIGH,02/20/2024,Onboarding took too long.
+R0003,Ada Lovelace,TEAM,10,5,1,$149.00, medium,11/04/2024,Pricing feels high for what we use.
+R0004,Grace Hopper,Free,4,1,8,$0.00,high,"Apr 24, 2024",Onboarding took too long.
+R0005,Grace Hopper,free,10,5,0,12500,low,07/01/2024,
+R0006,null,Pro,8,4,2,$299.00,HIGH,26/04/2024,
+R0007,Ada Lovelace,Free ,5,3,3,1400,high,05/02/2024,
+R0008,Ada Lovelace,Enterprise,10,5,0,$149,medium,28-Apr-2024,Pricing feels high for what we use.
+R0009,Ada Lovelace,Pro,6,3,2,299,high,"Feb 13, 2024",
+R0010,Katherine Johnson,Pro,0,1,8,149,high,03/23/2024,
+R0011,Grace Hopper,free,8,5,0,0,low,09-Feb-2024,
+R0012,Ken Thompson,team,7,3,3,$149,low,2024-01-23,
+R0013,Katherine Johnson,Team,9,null,0,$0,LOW,01/06/2024,
+R0014,Ken Thompson,Team,8/10,4,1,149,high,2024-02-06,
+R0015,Ada Lovelace,PRO,null,5,1,12500,high ,02/29/2024,
+R0016,Ada Lovelace,Free,9,n/a,,299,medium,03/08/2024,Migration from a competitor was smooth.
+R0017,Katherine Johnson,team,10,5,0,$0.00, medium,03/12/2024,Migration from a competitor was smooth.
+R0018,Ken Thompson,enterprise,8,5,0,1400,medium,13/02/2024,Best tool in its class.
+R0019,Ada Lovelace, Pro,null,5,1,$149.00,medium,03/02/2024,
+R0020,Alan Turing,Pro,8,4,2,149,low,07/03/2024,
+R0021,Ada Lovelace,Free,10,4,0,null,low,05/03/2024,Best tool in its class.
+R0022,Ada Lovelace,ENTERPRISE,10,4,0,$0.00,medium,"Feb 18, 2024",Best tool in its class.
+R0023,Ada Lovelace,Free,10,5,0,299, low,09/03/2024,
+R0024,Grace Hopper,Team,6,4,0,299,low,"Apr 13, 2024",
+R0025,Grace Hopper,Enterprise,10,5,0,$149,high ,10-Apr-2024,Best tool in its class.
+R0026,n/a,Enterprise,9,5,1,$0,low,03/05/2024,
+R0027,Ken Thompson,ENTERPRISE,10,5,1,0, high,2024-01-28,
+R0028,Grace Hopper,Enterprise,?,1,8,null,low,01/04/2024,
+R0029,Ken Thompson,ENTERPRISE,9 out of 10,5,0,$0,medium,2024-03-19,
+R0030,Grace Hopper,Free,10,5,0,$299,low,"Feb 18, 2024",
+R0031,Katherine Johnson,Team ,8,5,0,N/A,high,17-Mar-2024,
+R0032,Katherine Johnson,enterprise,8,5,0,$0.00,high,2024-03-17,
+R0033,Grace Hopper,team,9,5,1,$299.00, low,"Apr 04, 2024",
+R0034,Grace Hopper,Free,8,5,1,$0.00,low,14/04/2024,
+R0035,Ada Lovelace,Team,9,5,1,$0,high,01/26/2024,
+R0036, ,TEAM,null,4,2,$0, low,"Mar 30, 2024",
+R0037,Alan Turing,Free,8,4,2,1400,low,13/03/2024,
+R0038,Ada Lovelace,Enterprise,8,5,1,null,high,08-Apr-2024,
+R0039,Katherine Johnson,PRO,10,5,0,$149.00,low,26-Mar-2024,
+R0040,Alan Turing, Enterprise,10,5,0,299,low,2024-02-15,Migration from a competitor was smooth.
+R0041,Ken Thompson,Free,6,4,2,n/a,low,19-Jan-2024,Best tool in its class.
+R0042,Ada Lovelace,Enterprise,10,5,0,$0,low,17-Jan-2024,
+R0043,Ken Thompson, Enterprise,6,4,0,$0,low,03/26/2024,Best tool in its class.
+R0044,Alan Turing, Pro, , ,8,$0,low,12-Mar-2024,
+R0045,Grace Hopper,Team,9 out of 10,5, ,"$12,500.00",low,02/23/2024,
+R0046,Alan Turing, Pro,10,5,null,$299.00,medium,2024-04-13,
+R0047,Alan Turing,Team ,N/A,4,,$299,HIGH,"Mar 25, 2024",Pricing feels high for what we use.
+R0048,Alan Turing,Enterprise,8 out of 10,5,3,$0.00,medium,02-May-2024,
+R0049,Grace Hopper, Pro,9,5,0,12500,high ,07-Jan-2024,Best tool in its class.
+R0050,Alan Turing,Team,3,2,8,$0,medium,11-Mar-2024,
+R0051,Grace Hopper,Enterprise,6,3,3,$12500,low,"Feb 11, 2024",Migration from a competitor was smooth.
+R0052,Ada Lovelace,Pro,10,4,-,$299.00,medium,"Mar 12, 2024",
+R0053,Ada Lovelace,Free,10,5,1,$299.00, medium,10/03/2024,
+R0054,Katherine Johnson,Team,9,5,0,1400,MEDIUM,2024-04-15,
+R0055,Katherine Johnson,Pro,10 out of 10,5,2,$1400,HIGH,24-Mar-2024,
+R0056,Katherine Johnson,Team ,10,5,1,1400,high,2024-02-15,Pricing feels high for what we use.
+R0057,Katherine Johnson,Team,9/10,N/A,0,1400,high,01/17/2024,
+R0058,Ken Thompson, Free, ,5,,$0,high,"Apr 16, 2024",Support replies fast and fixes things.
+R0059, ,Free,8/10,4,N/A,1400,medium,28/02/2024,Migration from a competitor was smooth.
+R0060,Grace Hopper, Enterprise,8/10,n/a,1,1400,high,02-May-2024,
+R0061,Grace Hopper,Team,8,5,null,$0,medium,01/26/2024,
+R0062,Alan Turing,Enterprise,8,4,3,$0.00,medium,06-Jan-2024,Best tool in its class.
+R0063,Grace Hopper,Enterprise,10,5,0,$0, high,21/03/2024,
+R0064,Grace Hopper,Enterprise,10,5,0,$12500,low,14-Mar-2024,Best tool in its class.
+R0065,Katherine Johnson,Enterprise,8/10,4,, ,high ,04/26/2024,
+R0066,Alan Turing,Pro,1,1,8,"$1,400.00",medium ,07/02/2024,Support replies fast and fixes things.
+R0067,Grace Hopper,TEAM, ,5,1,1400, high,11-Apr-2024,
+R0068,Ada Lovelace,PRO,8,5,0,$299,medium,"Apr 12, 2024",Best tool in its class.
+R0069,Alan Turing, Team,10,5,3,N/A,high,26/04/2024,
+R0070,Katherine Johnson,Enterprise,10/10,5,1,299,high,09-Mar-2024,Migration from a competitor was smooth.
+R0071,Alan Turing,Team,null,4,,$149.00,high,"Apr 09, 2024",
+R0072,Grace Hopper,FREE,9,5,1,$0,low,26-Feb-2024,Best tool in its class.
+R0073,Ada Lovelace,Free ,10,5,0,$299.00,low,19/04/2024,Migration from a competitor was smooth.
+R0074,Ken Thompson,Enterprise ,8,4,3,$299.00,medium,"Mar 06, 2024",
+R0075,null,Free,10,5,n/a, ,high,"Mar 24, 2024",Pricing feels high for what we use.
+R0076,Grace Hopper,Enterprise,3/10,1,N/A,$0.00,low,20-Jan-2024,
+R0077,Grace Hopper,team,NaN,5,n/a,$299.00,high,09-Feb-2024,Migration from a competitor was smooth.
+R0078,Alan Turing,Free,10,5,2,$0,high,"Mar 04, 2024",Support replies fast and fixes things.
+R0079,Katherine Johnson, Enterprise,9,4,1,?,high ,2024-02-25,
+R0080,Grace Hopper,enterprise,10,5,1,$1400,medium,10-Apr-2024,
+R0081,Ken Thompson, Enterprise,6,4,2,1400,low,19/03/2024,Onboarding took too long.
+R0082,Grace Hopper,Enterprise,4,2,8,12500,low,01/21/2024,
+R0083,Grace Hopper,Enterprise,8,3,3,$299,low,2024-03-09,
+R0084,Ken Thompson,free,8,5,0,null,high,2024-01-23,Pricing feels high for what we use.
+R0085,Ken Thompson,Enterprise,6,4,0,1400,high,2024-05-01,
+R0086,Katherine Johnson,Free,2,1,8,$0,medium,"Feb 26, 2024",
+R0087,Grace Hopper,Team,8/10,4,3,149, medium,"Jan 25, 2024",
+R0088,Ada Lovelace,Enterprise,6,3,2,NaN,medium,12/01/2024,
+R0089,Grace Hopper,Free,N/A,1,8,299,high,2024-01-05,Pricing feels high for what we use.
+R0090,Ken Thompson,Enterprise,9,5,-,"$1,400.00",high,13/02/2024,Pricing feels high for what we use.
+R0091,Ken Thompson,Free,10 out of 10,5,1,n/a,medium,27-Feb-2024,
+R0092,Ada Lovelace,Team,?,3,2,"$1,400.00",low,2024-03-11,Onboarding took too long.
+R0093,Katherine Johnson,Team,9/10,4,3,null,medium,17-Apr-2024,Migration from a competitor was smooth.
+R0094,Ada Lovelace,pro,8,N/A,N/A,"$1,400.00",medium,"Mar 14, 2024",
+R0095,Ken Thompson,Team,NaN,1,8,$149.00,high,24/01/2024,
+R0096,Grace Hopper, Enterprise,6/10,2,8,$149.00,high,03-Feb-2024,
+R0097,Grace Hopper,Free,9,5,1,$12500,medium,2024-04-20,
+R0098,Ada Lovelace, Pro,10,5,0,$149.00,high,13/02/2024,Best tool in its class.
+R0099,Alan Turing,Free,8,4,2,$0.00,medium,03/24/2024,
+R0100,Alan Turing,Free,7,4,?,$149.00, medium,2024-03-14,Best tool in its class.
+R0101,Alan Turing,enterprise,9/10,5,0,-,high,25/03/2024,
+R0102,Grace Hopper,Free,9,5,1,$0,high,"Mar 18, 2024",
+R0103,Alan Turing, Pro,9,5,0,0,medium,17-Feb-2024,
+R0104,Katherine Johnson,Enterprise,10,5,1,$0.00,medium,01-Feb-2024,
+R0105,Alan Turing,Free,10,5,2,null,LOW,2024-04-27,Migration from a competitor was smooth.
+R0106,Alan Turing,Enterprise,NaN,5,1,149,low ,23-Apr-2024,
+R0107,Katherine Johnson,Free,8,5,?,$0,medium,"Mar 26, 2024",Support replies fast and fixes things.
+R0108,-,Team,6,3,3,$0.00,low,2024-02-08,Migration from a competitor was smooth.
+R0109,Ada Lovelace,Pro,2,1,N/A,0,high,20/01/2024,Migration from a competitor was smooth.
+R0110,Alan Turing,Team,9,5,0,$299.00,high,"Apr 29, 2024",
+R0111,Ada Lovelace, Team,null,4,0,$0.00,medium,10-Feb-2024,
+R0112,Ada Lovelace,Pro,null,5,N/A,299, medium,21/04/2024,
+R0113,Katherine Johnson,pro,-,4,2,0,medium,15-Jan-2024,Onboarding took too long.
+R0114,Alan Turing,Team,10,5,1,$0,high,04/07/2024,Migration from a competitor was smooth.
+R0115,Alan Turing,Team,10 out of 10,-,0,$299.00,medium,21/01/2024,Onboarding took too long.
+R0116,Katherine Johnson,team,6,2,N/A,$12500,medium,04/09/2024,
+R0117,Ada Lovelace,Team,9 out of 10,5,1,"$1,400.00",medium,21-Jan-2024,
+R0118,Alan Turing,free,10/10,5,0,$299.00,low,2024-04-21,
+R0119,Ken Thompson,Free,?,5,0,,high,2024-02-27,
+R0120,Ada Lovelace,Free,4,3,2,$299,HIGH,19/03/2024,
+R0121,Katherine Johnson, Team,9,4,3,"$12,500.00",high,2024-01-12,Support replies fast and fixes things.
+R0122,Alan Turing, Pro,9,5,1,$149,low,2024-04-29,
+R0123,Ada Lovelace,Enterprise,6 out of 10,4,2,$0,high,"Apr 15, 2024",
+R0124,Grace Hopper,Enterprise,10,5,0,$149.00,medium,03/04/2024,
+R0125,Grace Hopper,Enterprise,6,4,NaN,$299.00,high,2024-03-11,
+R0126,Alan Turing, Free,10,5,0,12500,high,2024-04-03,
+R0127,Ada Lovelace,enterprise,8,5,n/a,NaN,low,2024-04-26,
+R0128,Alan Turing,Enterprise,10,5,2,"$1,400.00",medium,"Feb 20, 2024",
+R0129,Katherine Johnson,Free,7/10,3,2,$299,medium,2024-01-15,Onboarding took too long.
+R0130,Alan Turing,Pro,7/10,4,N/A,"$12,500.00",low,2024-03-01,
+R0131,Ken Thompson,Team ,10,5,2,$0, low,"Feb 11, 2024",
+R0132,Katherine Johnson,Free ,9,4,3,$0,medium,2024-05-01,
+R0133,Alan Turing,Pro,0,1,8,0,low,"Mar 04, 2024",
+R0134,Ken Thompson,Enterprise,9,4,-,$12500,low,"Mar 15, 2024",
+R0135,Katherine Johnson,Pro,,5,1,?,low,24-Jan-2024,
+R0136,Grace Hopper,team,9 out of 10,4,2,"$12,500.00",MEDIUM,"Feb 25, 2024",
+R0137,Alan Turing,Enterprise,9,5, ,$149.00,high,"Jan 30, 2024",
+R0138,Alan Turing,Enterprise,6,4,3,$0, medium,2024-01-14,Onboarding took too long.
+R0139,Ken Thompson,Team,0 out of 10,1,8,$1400, low,2024-04-09,Pricing feels high for what we use.
+R0140,Katherine Johnson,Pro,?,5,0,1400,medium,04/01/2024,
+R0141,Alan Turing,ENTERPRISE,10,5,1,$0,low,30/03/2024,
+R0142,Ken Thompson,Free,7/10,4,1,$149.00,medium,09/03/2024,Best tool in its class.
+R0143,NaN,Team,10,5,0,"$12,500.00",low,20/03/2024,Migration from a competitor was smooth.
+R0144,Ken Thompson,Team,10,5,1,$0.00,medium,"Feb 14, 2024",
+R0145,Ada Lovelace,Pro,8,4,?,$149,MEDIUM,"Mar 06, 2024",Onboarding took too long.
+R0146,Katherine Johnson,Enterprise,10,,2,0, medium,04/01/2024,
+R0147,Ken Thompson, Enterprise,9,5,?,299,medium,01/02/2024,Best tool in its class.
+R0148,Alan Turing,Team,10,5,1,149,medium,"Apr 17, 2024",Migration from a competitor was smooth.
+R0149,Katherine Johnson,Team ,8/10,5,1,299,medium,09-Jan-2024,
+R0150,Katherine Johnson,Team,0,1,8,299,low,04/14/2024,Best tool in its class.
+R0151,Katherine Johnson,ENTERPRISE,8,5,1,$0.00,high,13/02/2024,
+R0152,null,Pro,4,2,8,$0,low,09/04/2024,
+R0153,Alan Turing,Team,10,5,0,12500, low,02/21/2024,
+R0154,Alan Turing,Team,2,1,8,0,medium,2024-04-13,Pricing feels high for what we use.
+R0155,Ada Lovelace,Team,10,5,1,"$12,500.00",low,01/16/2024,
+R0156,Grace Hopper,Team,null,1,8,$0.00,low,14/04/2024,
+R0157,Ada Lovelace,Pro ,1,1,8,"$1,400.00",low,2024-04-09,
+R0158,Katherine Johnson, Free,3,2,8,$299,high,09/01/2024,
+R0159,Grace Hopper,Pro,n/a,5,3,149,medium,"Feb 10, 2024",
+R0160,Alan Turing, Pro,1 out of 10,1,8,$0,high,12/03/2024,Onboarding took too long.
+R0161,Ken Thompson,Enterprise,10,5,1,$149.00, low,04/08/2024,
+R0162,Ada Lovelace,Pro,7,4,1,12500,low,"Apr 20, 2024",Support replies fast and fixes things.
+R0163,Grace Hopper,Team,10,4,2,"$12,500.00",medium,02/10/2024,Pricing feels high for what we use.
+R0164,Ken Thompson,Free,9,4,0,null,high,11/04/2024,Migration from a competitor was smooth.
+R0165,Katherine Johnson,Team,10,5,0,?,high,03/26/2024,
+R0166,Katherine Johnson,Enterprise,10,5,0,12500,medium,"Feb 18, 2024",Best tool in its class.
+R0167,null, Pro,?,?,3,0,low,08-Apr-2024,
+R0168,Alan Turing, Team,9,5, ,"$1,400.00",medium,28/01/2024,
+R0169,Alan Turing,Enterprise,9,5,1,$299,high,13/02/2024,
+R0170,NaN,Team,10,5,3,"$1,400.00",high,15/03/2024,
+R0171,Alan Turing,Free,4/10,3,2,$299.00,low,26/02/2024,
+R0172,Ken Thompson,Enterprise ,n/a,4,2,149, low,2024-03-15,Pricing feels high for what we use.
+R0173,null,Free,8,5,n/a,$0.00,high,13/04/2024,
+R0174,Katherine Johnson,Enterprise,10,5,0,299,medium,22/02/2024,
+R0175,Alan Turing,Enterprise,10,-,2,149, low,2024-01-19,
+R0176,Ada Lovelace, Pro,9,5,null,$0,medium,06-Jan-2024,
+R0177,Grace Hopper,Free,9/10,4,1,1400,low,2024-01-18,Onboarding took too long.
+R0178,Katherine Johnson, Pro,10,5,0,12500,high,"Feb 15, 2024",
+R0179,Katherine Johnson,Free,8,4,?,"$12,500.00",low,03/12/2024,
+R0180,Ada Lovelace,Free,3,1,8,$12500,high,"Jan 19, 2024",Onboarding took too long.
+R0181,Grace Hopper,Enterprise,?,5,3,$149,high,"Jan 13, 2024",
+R0182,Ken Thompson,Enterprise,8,3,2,$0,medium,"Mar 03, 2024",
+R0183,Katherine Johnson,Free,9,5,0,NaN,HIGH,2024-01-08,
+R0184,Katherine Johnson,Pro,10,5,0,"$12,500.00",low,01/21/2024,
+R0185,Grace Hopper,Pro,8,4,1,$1400,high,04/04/2024,
+R0186,Alan Turing,Free,10,5,1,NaN,high,2024-01-23,Onboarding took too long.
+R0187,Grace Hopper,ENTERPRISE,9,4,1,$149.00,high,17/04/2024,
+R0188,Ada Lovelace,Team,1/10,1,8,$0.00,high,15/01/2024,
+R0189,Alan Turing,Team ,8,5,0, ,medium,17/04/2024,Migration from a competitor was smooth.
+R0190,,FREE,8,3,2,12500,high ,26-Feb-2024,Support replies fast and fixes things.
+R0191,Grace Hopper,Enterprise,6 out of 10,4,2,n/a, high,03/23/2024,
+R0192,Ada Lovelace,Pro,,2,8,$149.00,low,03/22/2024,Onboarding took too long.
+R0193,Katherine Johnson,Pro,10,5,?,$149.00,low,2024-01-07,
+R0194,Ken Thompson,Pro,8,4,0, , high,"Feb 05, 2024",
+R0195,Grace Hopper,Team,1 out of 10,1,8,$149,medium,13/04/2024,
+R0196,Ada Lovelace,Enterprise,?,2,n/a,$0.00,medium,09/01/2024,
+R0197,Alan Turing,Enterprise,6,4,3,$0.00,high,"Apr 01, 2024",Migration from a competitor was smooth.
+R0198,Ada Lovelace,PRO,10,5,2,$0.00,medium ,2024-04-09,
+R0199,Katherine Johnson,pro,8,4,3,299,medium,15/04/2024,
+R0200,Alan Turing,Free ,10,5,0,$0.00,medium,"Mar 16, 2024",
+R0075,null,Free,10,5,n/a, ,high,"Mar 24, 2024",Pricing feels high for what we use.
+R0049,Grace Hopper, Pro,9,5,0,12500,high ,07-Jan-2024,Best tool in its class.
+R0007,Ada Lovelace,Free ,5,3,3,1400,high,05/02/2024,
+R0074,Ken Thompson,Enterprise ,8,4,3,$299.00,medium,"Mar 06, 2024",
+R0003,Ada Lovelace,TEAM,10,5,1,$149.00, medium,11/04/2024,Pricing feels high for what we use.
+R0098,Ada Lovelace, Pro,10,5,0,$149.00,high,13/02/2024,Best tool in its class.
+R0043,Ken Thompson, Enterprise,6,4,0,$0,low,03/26/2024,Best tool in its class.
+R0083,Grace Hopper,Enterprise,8,3,3,$299,low,2024-03-09,

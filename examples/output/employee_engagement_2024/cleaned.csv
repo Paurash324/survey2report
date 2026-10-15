@@ -1,0 +1,181 @@
+employee_id,department,tenure_yrs,role,engagement_score,manager_support,would_recommend,survey_date,comments
+E1000,Support,5.0,Individual Contributor,3.0,3.0,Maybe,2024-05-18,
+E1001,Finance,0.0,Manager,,3.0,No,2024-07-06,"Great team, poor tooling."
+E1002,Marketing,0.0,Manager,4.0,5.0,Yes,2024-03-22,Manager is supportive and clear.
+E1003,Support,12.0,Team Lead,,3.0,Maybe,2024-05-17,"Great team, poor tooling."
+E1004,Support,5.0,Manager,1.0,,Yes,2024-03-05,
+E1005,Finance,0.0,Manager,1.0,1.0,No,2024-05-07,
+E1006,Sales,7.0,Individual Contributor,5.0,,Maybe,2024-04-17,
+E1007,Support,11.0,Team Lead,4.0,3.0,No,2024-04-29,
+E1008,Support,5.0,Manager,4.0,3.0,Yes,2024-06-28,
+E1009,Support,11.0,Manager,5.0,5.0,No,2024-04-26,Workload is too high right now.
+E1010,Support,9.0,Manager,5.0,5.0,No,2024-04-25,
+E1011,Marketing,7.0,Manager,1.0,1.0,Yes,2024-04-04,
+E1012,Sales,12.0,Team Lead,1.0,1.0,Yes,2024-04-23,
+E1013,Support,1.0,Individual Contributor,2.0,,No,2024-04-12,
+E1014,Marketing,7.0,Manager,,,No,2024-04-11,
+E1015,Sales,10.0,Director,5.0,5.0,Maybe,2024-03-11,Needs better career pathing.
+E1016,Engineering,9.0,Team Lead,1.0,1.0,No,2024-06-10,
+E1017,Finance,10.0,Manager,2.0,3.0,Yes,2024-04-28,
+E1018,Sales,0.0,Individual Contributor,2.0,2.0,Yes,2024-05-21,
+E1019,Engineering,3.0,Manager,4.0,,Yes,2024-06-26,
+E1020,Marketing,11.0,Manager,,1.0,No,2024-06-19,
+E1021,Marketing,0.0,Individual Contributor,4.0,5.0,No,2024-03-09,
+E1022,Finance,12.0,Manager,3.0,,Maybe,2024-03-05,"Love the mission, pay is below market."
+E1023,Marketing,11.0,Director,5.0,5.0,Yes,2024-04-29,
+E1024,Marketing,1.0,Director,5.0,4.0,Maybe,2024-04-17,Manager is supportive and clear.
+E1025,Engineering,9.0,Director,5.0,4.0,Maybe,2024-03-08,Needs better career pathing.
+E1026,Engineering,3.0,Manager,4.0,4.0,No,2024-06-28,Manager is supportive and clear.
+E1027,Engineering,2.0,Director,1.0,1.0,Maybe,2024-03-29,
+E1028,Engineering,9.0,Team Lead,5.0,5.0,Yes,2024-04-03,Needs better career pathing.
+E1029,Sales,11.0,Director,3.0,3.0,No,2024-04-28,
+E1030,Sales,0.0,Individual Contributor,4.0,4.0,No,2024-03-19,
+E1031,Support,6.0,Individual Contributor,3.0,4.0,Yes,2024-03-10,
+E1032,Marketing,4.0,Individual Contributor,4.0,3.0,No,2024-06-22,"Love the mission, pay is below market."
+E1033,Support,8.0,Team Lead,5.0,4.0,No,2024-04-20,Workload is too high right now.
+E1034,Support,7.0,Director,4.0,3.0,Maybe,2024-06-23,
+E1035,Marketing,0.0,Individual Contributor,5.0,,Maybe,2024-06-01,
+E1036,Marketing,3.0,Manager,1.0,1.0,Yes,2024-05-20,
+E1037,Finance,11.0,Director,3.0,3.0,Yes,2024-04-27,"Love the mission, pay is below market."
+E1038,Finance,9.0,Individual Contributor,4.0,5.0,Maybe,2024-06-06,
+E1039,Support,8.0,Manager,4.0,4.0,No,2024-03-25,
+E1040,Finance,0.0,Manager,4.0,5.0,Maybe,2024-04-29,Needs better career pathing.
+E1041,Finance,5.0,Individual Contributor,5.0,5.0,Yes,2024-05-27,Workload is too high right now.
+E1042,Marketing,,Individual Contributor,4.0,3.0,Yes,2024-12-05,Manager is supportive and clear.
+E1043,Sales,1.0,Manager,2.0,,Yes,2024-04-20,Manager is supportive and clear.
+E1044,Sales,1.0,Manager,3.0,4.0,Maybe,2024-06-26,
+E1045,Engineering,8.0,Director,4.0,5.0,Yes,2024-06-22,Needs better career pathing.
+E1046,Engineering,6.0,Individual Contributor,2.0,,No,2024-03-24,
+E1047,Engineering,12.0,Individual Contributor,,3.0,Maybe,2024-04-21,
+E1048,Support,11.0,Team Lead,2.0,2.0,Yes,2024-05-24,"Great team, poor tooling."
+E1049,Support,7.0,Director,4.0,3.0,Yes,2024-06-27,"Great team, poor tooling."
+E1050,Support,11.0,Manager,3.0,3.0,Maybe,2024-06-13,"Great team, poor tooling."
+E1051,Support,8.0,Individual Contributor,5.0,,No,2024-03-22,
+E1052,Engineering,5.0,Manager,5.0,5.0,Yes,2024-03-07,
+E1053,Support,2.0,Individual Contributor,,2.0,Yes,2024-03-14,
+E1054,Marketing,10.0,Team Lead,2.0,2.0,No,2024-03-29,"Love the mission, pay is below market."
+E1055,Engineering,7.0,Manager,2.0,3.0,Yes,2024-05-16,
+E1056,Sales,10.0,Team Lead,4.0,4.0,Maybe,2024-03-11,"Love the mission, pay is below market."
+E1057,Support,8.0,Manager,1.0,1.0,Maybe,2024-05-03,"Great team, poor tooling."
+E1058,Finance,2.0,Manager,1.0,1.0,Maybe,2024-04-18,
+E1059,Sales,3.0,Team Lead,1.0,1.0,Maybe,2024-06-17,
+E1060,Support,3.0,Director,4.0,4.0,No,2024-03-05,"Love the mission, pay is below market."
+E1061,Finance,5.0,Individual Contributor,5.0,5.0,No,2024-04-11,
+E1062,Finance,8.0,Individual Contributor,1.0,1.0,Maybe,2024-06-26,
+E1063,Sales,6.0,Manager,,4.0,No,2024-06-22,Workload is too high right now.
+E1064,Finance,1.0,Team Lead,1.0,1.0,Yes,2024-04-08,"Love the mission, pay is below market."
+E1065,Finance,10.0,Individual Contributor,2.0,1.0,Yes,2024-06-28,Needs better career pathing.
+E1066,Sales,1.0,Individual Contributor,4.0,5.0,Maybe,2024-05-03,"Love the mission, pay is below market."
+E1067,Marketing,5.0,Director,3.0,,Yes,2024-03-30,Manager is supportive and clear.
+E1068,Sales,8.0,Manager,,3.0,Maybe,2024-06-25,
+E1069,Finance,5.0,Manager,4.0,4.0,No,2024-05-10,"Love the mission, pay is below market."
+E1070,Sales,0.0,Manager,2.0,2.0,Maybe,2024-03-21,"Great team, poor tooling."
+E1071,Support,5.0,Manager,,2.0,No,2024-06-19,"Love the mission, pay is below market."
+E1072,Sales,6.0,Individual Contributor,5.0,5.0,Yes,2024-06-25,Workload is too high right now.
+E1073,Support,3.0,Director,4.0,4.0,No,2024-05-28,
+E1074,Finance,0.0,Director,2.0,3.0,Maybe,2024-07-05,
+E1075,Engineering,7.0,Director,4.0,,No,2024-05-16,
+E1076,Sales,8.0,Team Lead,4.0,4.0,No,2024-06-04,
+E1077,Engineering,0.0,Team Lead,4.0,5.0,No,2024-06-29,
+E1078,Sales,11.0,Manager,4.0,4.0,Maybe,2024-05-29,Workload is too high right now.
+E1079,Marketing,1.0,Manager,4.0,3.0,No,2024-06-05,Workload is too high right now.
+E1080,Engineering,0.0,Team Lead,4.0,3.0,No,2024-03-13,Needs better career pathing.
+E1081,Sales,1.0,Director,5.0,5.0,Yes,2024-06-03,
+E1082,Sales,10.0,Individual Contributor,3.0,3.0,No,2024-03-08,
+E1083,Sales,1.0,Director,5.0,5.0,No,2024-01-05,
+E1084,Engineering,6.0,Individual Contributor,5.0,5.0,Yes,2024-05-05,
+E1085,Support,1.0,Team Lead,5.0,5.0,Maybe,2024-06-19,
+E1086,Marketing,0.0,Individual Contributor,2.0,3.0,Maybe,2024-04-21,Manager is supportive and clear.
+E1087,Sales,9.0,Team Lead,3.0,3.0,Maybe,2024-06-09,
+E1088,Marketing,2.0,Individual Contributor,2.0,1.0,Maybe,2024-03-04,
+E1089,Marketing,3.0,Individual Contributor,4.0,4.0,Yes,2024-06-18,
+E1090,Finance,,Team Lead,3.0,4.0,No,2024-06-27,
+E1091,Sales,12.0,Team Lead,4.0,,Yes,2024-03-23,Needs better career pathing.
+E1092,Finance,5.0,Team Lead,4.0,5.0,No,2024-03-09,Workload is too high right now.
+E1093,Support,4.0,Manager,5.0,5.0,Yes,2024-04-04,
+E1094,Support,5.0,Director,2.0,1.0,Maybe,2024-11-04,
+E1095,Engineering,5.0,Director,2.0,3.0,No,2024-04-15,
+E1096,Engineering,12.0,Director,4.0,3.0,Yes,2024-06-27,
+E1097,Marketing,6.0,Director,5.0,5.0,Maybe,2024-03-11,Workload is too high right now.
+E1098,Marketing,4.0,Team Lead,1.0,1.0,Maybe,2024-06-11,"Great team, poor tooling."
+E1099,Finance,9.0,Manager,2.0,1.0,Maybe,2024-04-09,Needs better career pathing.
+E1100,Finance,10.0,Team Lead,4.0,,Maybe,2024-03-26,
+E1101,Sales,8.0,Team Lead,,2.0,No,2024-04-24,
+E1102,Support,12.0,Individual Contributor,4.0,4.0,Maybe,2024-05-02,"Love the mission, pay is below market."
+E1103,Support,0.0,Manager,4.0,3.0,Yes,2024-06-05,
+E1104,Finance,7.0,Individual Contributor,1.0,1.0,No,2024-07-04,
+E1105,Support,10.0,Manager,5.0,4.0,Maybe,2024-05-13,
+E1106,Support,10.0,Director,,4.0,Yes,2024-05-28,
+E1107,Support,11.0,Director,1.0,2.0,No,2024-03-23,Manager is supportive and clear.
+E1108,Sales,1.0,Team Lead,3.0,2.0,Maybe,2024-06-06,Manager is supportive and clear.
+E1109,Finance,10.0,Director,2.0,2.0,No,2024-05-27,
+E1110,Engineering,,Team Lead,,4.0,Yes,2024-05-06,Workload is too high right now.
+E1111,Engineering,0.0,Director,4.0,5.0,Maybe,2024-05-17,Needs better career pathing.
+E1112,Marketing,6.0,Team Lead,1.0,1.0,Yes,2024-06-21,Manager is supportive and clear.
+E1113,Marketing,1.0,Director,3.0,3.0,Yes,2024-06-05,
+E1114,Engineering,6.0,Individual Contributor,2.0,3.0,Maybe,2024-04-29,"Great team, poor tooling."
+E1115,Marketing,2.0,Individual Contributor,4.0,3.0,Maybe,2024-03-08,
+E1116,Marketing,,Director,3.0,2.0,Yes,2024-03-03,
+E1117,Finance,10.0,Manager,2.0,1.0,Maybe,2024-06-04,
+E1118,Engineering,10.0,Director,2.0,3.0,Yes,2024-05-15,
+E1119,Engineering,2.0,Director,4.0,4.0,Maybe,2024-01-05,"Love the mission, pay is below market."
+E1120,Support,2.0,Team Lead,3.0,3.0,No,2024-04-08,
+E1121,Finance,3.0,Team Lead,2.0,3.0,No,2024-06-09,"Great team, poor tooling."
+E1122,Engineering,5.0,Director,5.0,4.0,Yes,2024-04-10,
+E1123,Support,3.0,Manager,,1.0,Maybe,2024-05-26,Workload is too high right now.
+E1124,Support,6.0,Team Lead,4.0,5.0,No,2024-06-25,Manager is supportive and clear.
+E1125,Finance,7.0,Team Lead,4.0,5.0,Maybe,2024-04-26,
+E1126,Support,10.0,Director,4.0,5.0,Maybe,2024-06-15,
+E1127,Marketing,7.0,Individual Contributor,1.0,2.0,Yes,2024-05-22,
+E1128,Support,7.0,Team Lead,4.0,3.0,Maybe,2024-06-08,
+E1129,Engineering,,Team Lead,1.0,1.0,Maybe,2024-04-29,
+E1130,Sales,,Team Lead,2.0,3.0,No,2024-03-15,"Love the mission, pay is below market."
+E1131,Support,,Manager,5.0,4.0,Yes,2024-03-06,
+E1132,Support,11.0,Manager,5.0,5.0,No,2024-11-05,
+E1133,Engineering,6.0,Manager,1.0,1.0,No,2024-06-14,
+E1134,Marketing,6.0,Team Lead,2.0,,Yes,2024-06-24,Workload is too high right now.
+E1135,Marketing,12.0,Manager,4.0,3.0,Maybe,2024-05-02,
+E1136,Finance,11.0,Team Lead,4.0,4.0,Yes,2024-03-14,
+E1137,Marketing,6.0,Manager,5.0,5.0,No,2024-05-21,
+E1138,Finance,3.0,Manager,4.0,3.0,Maybe,2024-05-13,
+E1139,Engineering,11.0,Team Lead,,4.0,Yes,2024-03-08,
+E1140,Marketing,3.0,Team Lead,1.0,,Yes,2024-06-23,
+E1141,Support,2.0,Team Lead,3.0,4.0,No,2024-04-22,"Love the mission, pay is below market."
+E1142,Sales,8.0,Director,2.0,2.0,Maybe,2024-06-05,
+E1143,Support,1.0,Individual Contributor,1.0,,Yes,2024-03-18,
+E1144,Support,7.0,Team Lead,3.0,,No,2024-03-18,
+E1145,Engineering,5.0,Individual Contributor,5.0,5.0,Maybe,2024-06-19,"Great team, poor tooling."
+E1146,Sales,12.0,Manager,1.0,1.0,Yes,2024-04-14,
+E1147,Engineering,8.0,Director,5.0,,Yes,2024-06-06,
+E1148,Sales,7.0,Team Lead,3.0,,Yes,2024-03-13,"Love the mission, pay is below market."
+E1149,Finance,10.0,Director,2.0,2.0,Maybe,2024-05-14,
+E1150,Finance,9.0,Director,2.0,2.0,Maybe,2024-03-14,Manager is supportive and clear.
+E1151,Sales,4.0,Team Lead,5.0,5.0,No,2024-05-21,
+E1152,Finance,2.0,Individual Contributor,5.0,5.0,Yes,2024-06-22,Manager is supportive and clear.
+E1153,Sales,9.0,Individual Contributor,5.0,5.0,Yes,2024-05-27,
+E1154,Finance,8.0,Manager,3.0,4.0,Yes,2024-05-15,
+E1155,Engineering,5.0,Team Lead,1.0,1.0,No,2024-01-04,
+E1156,Finance,4.0,Manager,5.0,5.0,Yes,2024-03-04,
+E1157,Support,2.0,Director,3.0,3.0,No,2024-04-06,
+E1158,Finance,12.0,Director,5.0,5.0,No,2024-06-28,"Great team, poor tooling."
+E1159,Support,12.0,Manager,3.0,4.0,Yes,2024-04-11,
+E1160,Finance,1.0,Individual Contributor,4.0,3.0,Maybe,2024-03-27,
+E1161,Sales,12.0,Manager,2.0,3.0,Yes,2024-03-18,
+E1162,Support,11.0,Director,5.0,5.0,Yes,2024-05-26,"Great team, poor tooling."
+E1163,Marketing,6.0,Individual Contributor,3.0,4.0,Yes,2024-04-13,Manager is supportive and clear.
+E1164,Engineering,0.0,Director,3.0,,No,2024-04-01,
+E1165,Marketing,2.0,Manager,5.0,5.0,Yes,2024-06-03,Workload is too high right now.
+E1166,Finance,1.0,Team Lead,,,Maybe,2024-04-03,
+E1167,Marketing,8.0,Director,2.0,,No,2024-06-10,"Great team, poor tooling."
+E1168,Engineering,6.0,Team Lead,4.0,3.0,Yes,2024-04-30,Needs better career pathing.
+E1169,Marketing,1.0,Director,4.0,,No,2024-05-03,
+E1170,Marketing,4.0,Director,4.0,5.0,Maybe,2024-05-10,Workload is too high right now.
+E1171,Marketing,0.0,Individual Contributor,5.0,5.0,No,2024-02-03,
+E1172,Support,0.0,Director,4.0,5.0,No,2024-04-14,
+E1173,Support,4.0,Manager,3.0,3.0,Yes,2024-06-20,Needs better career pathing.
+E1174,Sales,10.0,Individual Contributor,5.0,5.0,Maybe,2024-06-20,
+E1175,Marketing,2.0,Individual Contributor,5.0,5.0,Yes,2024-05-02,
+E1176,Engineering,0.0,Director,2.0,2.0,Maybe,2024-11-06,
+E1177,Sales,6.0,Team Lead,5.0,4.0,Yes,2024-03-31,
+E1178,Marketing,5.0,Team Lead,1.0,2.0,Maybe,2024-04-08,Manager is supportive and clear.
+E1179,Finance,1.0,Individual Contributor,3.0,2.0,Maybe,2024-06-07,

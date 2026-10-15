@@ -1,0 +1,171 @@
+respondent_id,segment,willingness_to_pay,purchase_intent,price_shown,discount_pct,interview_date,decision_maker,verbatim
+P001,Enterprise,288.0,Unlikely,263.0,10.0,2024-03-28,unknown,
+P002,Mid-Market,149.0,Unlikely,149.0,0.0,2024-03-01,Yes,Budget is locked until next quarter.
+P003,Mid-Market,188.0,Likely,218.99,20.0,2024-02-18,Yes,
+P004,Enterprise,239.0,Unlikely,239.99,,2024-05-07,unknown,Too expensive for our team size.
+P005,Enterprise,288.0,Neutral,318.0,25.0,2024-03-08,Yes,
+P006,Startup,29.0,Unlikely,59.99,15.0,2024-04-15,unknown,
+P007,SMB,69.0,Very unlikely,44.99,0.0,2024-02-10,Yes,
+P008,Enterprise,,Very unlikely,209.99,15.0,2024-02-13,Yes - VP,
+P009,SMB,89.0,Likely,89.99,0.0,2024-02-15,Yes - VP,
+P010,Mid-Market,159.0,Very likely,149.0,20.0,2024-03-25,Yes,Budget is locked until next quarter.
+P011,SMB,79.0,Unlikely,54.0,,2024-07-02,Yes,Price is fair if it replaces two tools.
+P012,Enterprise,229.0,Unlikely,259.0,,2024-03-21,unknown,Too expensive for our team size.
+P013,Startup,19.0,Neutral,19.0,0.0,2024-03-27,unknown,
+P014,Startup,,Unlikely,54.0,20.0,2024-04-12,No,
+P015,SMB,79.0,Unlikely,109.99,25.0,2024-04-05,No,
+P016,Startup,68.0,Likely,83.99,,2024-03-18,No,
+P017,SMB,79.0,Unlikely,94.99,15.0,2024-07-03,unknown,We would need SSO before buying.
+P018,SMB,,Unlikely,89.99,20.0,2024-04-08,Yes,
+P019,SMB,59.0,Likely,89.0,0.0,2024-02-02,unknown,
+P020,Enterprise,249.0,Likely,264.0,,2024-05-13,Yes - VP,
+P021,SMB,59.0,Very likely,34.0,25.0,2024-04-24,No,
+P022,Startup,29.0,Very likely,19.99,25.0,2024-03-08,No,
+P023,SMB,79.0,Likely,94.0,20.0,2024-05-29,unknown,We would need SSO before buying.
+P024,Startup,29.0,Neutral,19.0,,2024-04-12,Yes - VP,
+P025,Startup,29.0,Very unlikely,44.99,0.0,2024-04-22,No,
+P026,Startup,29.0,Likely,,10.0,2024-04-07,Yes - VP,Budget is locked until next quarter.
+P027,Mid-Market,,Unlikely,164.0,25.0,2024-02-16,No,
+P028,Enterprise,,Very likely,248.99,10.0,2024-02-28,unknown,
+P029,Enterprise,,Very likely,263.0,20.0,2024-04-06,Yes,
+P030,Enterprise,288.0,Very unlikely,248.0,,2024-02-10,unknown,
+P031,Enterprise,249.0,Very unlikely,,10.0,2024-04-07,unknown,Budget is locked until next quarter.
+P032,Enterprise,239.0,Unlikely,254.0,0.0,2024-03-30,Yes - VP,Budget is locked until next quarter.
+P033,Enterprise,288.0,Very unlikely,278.99,0.0,2024-02-03,Yes - VP,
+P034,Startup,29.0,Likely,,15.0,2024-03-17,unknown,
+P035,Enterprise,,Likely,279.99,25.0,2024-04-11,Yes,
+P036,Startup,29.0,Likely,59.99,20.0,2024-02-14,Yes - VP,
+P037,Mid-Market,149.0,Neutral,139.0,15.0,2024-03-26,Yes,Budget is locked until next quarter.
+P038,Startup,39.0,Very unlikely,29.0,15.0,2024-03-03,No,
+P039,Mid-Market,,Very unlikely,164.0,20.0,2024-03-12,Yes - VP,We would need SSO before buying.
+P040,Mid-Market,188.0,Very unlikely,178.0,0.0,2024-05-29,No,
+P041,Mid-Market,188.0,Neutral,148.0,0.0,2024-05-02,Yes,
+P042,Startup,29.0,Very unlikely,59.0,,2024-05-08,No,Too expensive for our team size.
+P043,Startup,19.0,Likely,,0.0,2024-03-12,unknown,Budget is locked until next quarter.
+P044,Mid-Market,139.0,Very unlikely,99.99,0.0,2024-04-25,Yes,We would need SSO before buying.
+P045,SMB,59.0,Very likely,74.0,20.0,2024-02-23,Yes,
+P046,SMB,89.0,Neutral,64.99,20.0,2024-02-19,Yes,
+P047,SMB,89.0,Very unlikely,64.0,25.0,2024-02-20,No,Budget is locked until next quarter.
+P048,SMB,118.0,Neutral,108.99,10.0,2024-02-11,unknown,
+P049,Enterprise,239.0,Unlikely,214.0,25.0,2024-02-28,Yes - VP,
+P050,SMB,59.0,Likely,,20.0,2024-02-14,No,
+P051,Startup,,Unlikely,59.0,0.0,2024-12-02,unknown,
+P052,Startup,68.0,Unlikely,68.99,25.0,2024-02-12,Yes,
+P053,SMB,79.0,Likely,79.99,15.0,2024-03-31,unknown,We would need SSO before buying.
+P054,Startup,29.0,Neutral,59.0,,2024-05-28,Yes - VP,We would need SSO before buying.
+P055,Enterprise,249.0,Neutral,239.0,20.0,2024-05-04,unknown,
+P056,Enterprise,288.0,Very unlikely,278.99,0.0,2024-03-20,Yes - VP,Too expensive for our team size.
+P057,SMB,59.0,Very likely,19.99,15.0,2024-05-29,Yes,
+P058,SMB,79.0,Likely,79.0,0.0,2024-04-28,Yes - VP,
+P059,Mid-Market,159.0,Likely,,,2024-04-17,No,
+P060,Mid-Market,159.0,Likely,189.99,25.0,2024-04-05,No,Price is fair if it replaces two tools.
+P061,Mid-Market,129.0,Very likely,144.99,25.0,2024-03-17,No,
+P062,Startup,39.0,Likely,19.0,25.0,2024-08-05,No,
+P063,Startup,,Neutral,59.0,0.0,2024-05-04,unknown,
+P064,Enterprise,,Very unlikely,249.0,15.0,2024-02-24,unknown,We would need SSO before buying.
+P065,SMB,89.0,Neutral,119.99,10.0,2024-04-09,unknown,
+P066,Enterprise,239.0,Unlikely,199.99,15.0,2024-03-03,unknown,
+P067,Mid-Market,,Likely,139.99,10.0,2024-03-07,Yes,We would need SSO before buying.
+P068,Enterprise,249.0,Very unlikely,209.0,,2024-11-05,unknown,
+P069,Startup,,Very likely,59.0,25.0,2024-03-29,unknown,
+P070,Mid-Market,149.0,Very likely,,,2024-05-23,unknown,
+P071,Mid-Market,149.0,Very unlikely,124.99,0.0,2024-02-22,No,
+P072,Mid-Market,188.0,Very likely,203.0,20.0,2024-05-01,Yes,We would need SSO before buying.
+P073,SMB,79.0,Unlikely,94.99,10.0,2024-04-13,No,
+P074,Startup,39.0,Unlikely,29.0,,2024-05-30,Yes,
+P075,Mid-Market,149.0,Neutral,139.99,0.0,2024-04-11,Yes,
+P076,Startup,19.0,Very likely,19.0,,2024-05-26,Yes,
+P077,Mid-Market,159.0,Unlikely,149.0,25.0,2024-04-28,unknown,
+P078,SMB,79.0,Unlikely,69.0,20.0,2024-03-11,No,
+P079,Enterprise,249.0,Likely,249.99,0.0,2024-03-02,No,We would need SSO before buying.
+P080,Enterprise,249.0,Very likely,249.99,0.0,2024-02-04,No,
+P081,Enterprise,288.0,Unlikely,278.0,15.0,2024-03-07,Yes - VP,
+P082,Mid-Market,159.0,Unlikely,174.0,15.0,2024-03-31,Yes - VP,
+P083,Mid-Market,188.0,Very unlikely,148.99,0.0,2024-04-14,unknown,
+P084,SMB,79.0,Very likely,94.0,20.0,2024-04-21,Yes - VP,
+P085,Startup,68.0,Likely,58.0,0.0,2024-03-17,No,
+P086,Startup,,Very unlikely,49.0,0.0,2024-03-18,No,
+P087,SMB,69.0,Neutral,59.99,15.0,2024-03-11,Yes,
+P088,Mid-Market,159.0,Likely,159.0,0.0,2024-05-13,unknown,
+P089,SMB,59.0,Very unlikely,59.0,15.0,2024-03-02,Yes - VP,
+P090,Enterprise,259.0,Neutral,219.0,,2024-03-02,unknown,
+P091,SMB,69.0,Likely,59.0,0.0,2024-02-13,Yes - VP,
+P092,Mid-Market,139.0,Unlikely,139.0,10.0,2024-02-20,Yes,
+P093,SMB,59.0,Very likely,49.0,10.0,2024-03-27,No,
+P094,SMB,118.0,Neutral,93.99,10.0,2024-03-24,Yes,
+P095,SMB,59.0,Very unlikely,74.0,20.0,2024-02-07,Yes - VP,
+P096,Mid-Market,139.0,Unlikely,154.0,25.0,2024-04-21,Yes - VP,
+P097,Enterprise,,Very likely,229.99,,2024-05-02,unknown,
+P098,Mid-Market,149.0,Unlikely,179.99,15.0,2024-05-10,Yes - VP,
+P099,Mid-Market,,Likely,149.99,20.0,2024-02-20,Yes,
+P100,SMB,79.0,Likely,54.99,0.0,2024-05-10,unknown,
+P101,SMB,118.0,Likely,78.0,25.0,2024-04-25,unknown,
+P102,Enterprise,,Very likely,249.99,25.0,2024-02-28,unknown,
+P103,SMB,59.0,Very unlikely,34.0,15.0,2024-05-19,unknown,We would need SSO before buying.
+P104,SMB,89.0,Very likely,89.0,20.0,2024-02-11,Yes - VP,Too expensive for our team size.
+P105,Enterprise,229.0,Likely,189.0,10.0,2024-05-29,No,
+P106,SMB,79.0,Very unlikely,109.0,15.0,2024-03-06,No,
+P107,Enterprise,249.0,Likely,279.0,0.0,2024-04-02,Yes - VP,We would need SSO before buying.
+P108,Startup,19.0,Very likely,19.0,15.0,2024-03-14,Yes,
+P109,Startup,19.0,Very unlikely,19.0,15.0,2024-05-29,Yes - VP,
+P110,Mid-Market,149.0,Unlikely,139.99,10.0,2024-02-02,No,
+P111,Startup,29.0,Very unlikely,,15.0,2024-03-22,Yes - VP,
+P112,SMB,59.0,Unlikely,59.99,20.0,2024-02-03,No,
+P113,Enterprise,259.0,Very unlikely,289.0,10.0,2024-05-27,unknown,
+P114,Enterprise,249.0,Very likely,209.99,20.0,2024-05-29,unknown,
+P115,Startup,,Neutral,44.99,0.0,2024-04-24,unknown,Price is fair if it replaces two tools.
+P116,Enterprise,249.0,Neutral,209.0,0.0,2024-04-09,No,Too expensive for our team size.
+P117,Startup,19.0,Neutral,,25.0,2024-03-31,Yes - VP,
+P118,Startup,,Very unlikely,19.0,15.0,2024-05-13,unknown,
+P119,Mid-Market,159.0,Unlikely,149.0,15.0,2024-03-13,Yes - VP,We would need SSO before buying.
+P120,Startup,29.0,Unlikely,19.0,25.0,2024-03-20,No,
+P121,Enterprise,288.0,Very unlikely,248.99,25.0,2024-03-20,unknown,Too expensive for our team size.
+P122,SMB,79.0,Very likely,54.0,0.0,2024-03-07,unknown,
+P123,SMB,89.0,Neutral,104.0,25.0,2024-10-05,unknown,
+P124,Enterprise,229.0,Neutral,229.99,25.0,2024-02-29,No,
+P125,Enterprise,229.0,Very unlikely,204.99,15.0,2024-04-21,unknown,
+P126,Mid-Market,149.0,Likely,139.0,,2024-02-04,Yes - VP,We would need SSO before buying.
+P127,Mid-Market,188.0,Likely,218.0,,2024-03-20,Yes,Too expensive for our team size.
+P128,Enterprise,288.0,Likely,,15.0,2024-03-25,unknown,
+P129,Enterprise,,Likely,318.0,0.0,2024-04-17,No,
+P130,Enterprise,249.0,Very likely,209.0,,2024-11-02,No,
+P131,Startup,19.0,Very unlikely,49.99,15.0,2024-04-14,Yes,
+P132,Mid-Market,139.0,Very unlikely,114.99,0.0,2024-05-24,unknown,
+P133,Enterprise,249.0,Unlikely,209.0,15.0,2024-03-24,No,
+P134,Mid-Market,149.0,Very likely,164.0,25.0,2024-03-01,Yes - VP,
+P135,SMB,79.0,Likely,94.0,20.0,2024-05-17,Yes,
+P136,Enterprise,288.0,Unlikely,248.99,10.0,2024-05-26,Yes - VP,We would need SSO before buying.
+P137,Startup,39.0,Neutral,69.0,20.0,2024-04-01,unknown,
+P138,Mid-Market,159.0,Very unlikely,174.0,15.0,2024-03-28,Yes,Budget is locked until next quarter.
+P139,Enterprise,249.0,Very likely,249.0,10.0,2024-04-25,Yes - VP,
+P140,Mid-Market,149.0,Very unlikely,124.99,,2024-02-05,Yes - VP,
+P141,Enterprise,,Unlikely,189.99,15.0,2024-02-23,Yes - VP,
+P142,SMB,89.0,Unlikely,89.99,25.0,2024-04-25,Yes,Too expensive for our team size.
+P143,Startup,68.0,Neutral,98.0,0.0,2024-04-23,Yes,Budget is locked until next quarter.
+P144,Startup,19.0,Very unlikely,19.0,25.0,2024-05-09,Yes - VP,
+P145,Enterprise,229.0,Likely,204.0,,2024-03-09,Yes - VP,Price is fair if it replaces two tools.
+P146,Mid-Market,149.0,Unlikely,149.0,,2024-05-17,unknown,We would need SSO before buying.
+P147,Mid-Market,149.0,Likely,149.0,20.0,2024-05-20,Yes,
+P148,Enterprise,239.0,Very likely,269.0,25.0,2024-04-04,Yes - VP,
+P149,Enterprise,229.0,Very likely,229.0,15.0,2024-05-03,Yes - VP,
+P150,Mid-Market,129.0,Very likely,104.0,,2024-04-21,unknown,Too expensive for our team size.
+P151,Enterprise,229.0,Unlikely,189.0,,2024-02-24,Yes - VP,
+P152,Startup,,Very unlikely,39.99,10.0,2024-02-14,unknown,Price is fair if it replaces two tools.
+P153,Mid-Market,159.0,Unlikely,119.0,0.0,2024-01-02,Yes,
+P154,Mid-Market,,Very unlikely,109.0,,2024-08-05,Yes - VP,We would need SSO before buying.
+P155,Startup,29.0,Likely,44.0,15.0,2024-09-03,No,
+P156,Mid-Market,188.0,Very unlikely,,0.0,2024-03-14,Yes - VP,Price is fair if it replaces two tools.
+P157,SMB,,Very likely,79.0,20.0,2024-01-05,Yes - VP,
+P158,Mid-Market,,Neutral,119.0,20.0,2024-05-01,Yes - VP,
+P159,Mid-Market,139.0,Very unlikely,129.0,15.0,2024-05-19,No,
+P160,Startup,68.0,Neutral,83.99,20.0,2024-04-02,Yes - VP,
+P161,Enterprise,249.0,Neutral,239.0,15.0,2024-04-17,Yes - VP,Too expensive for our team size.
+P162,Mid-Market,129.0,Neutral,129.0,20.0,2024-02-24,unknown,We would need SSO before buying.
+P163,Mid-Market,149.0,Likely,124.0,15.0,2024-03-20,Yes - VP,
+P164,Startup,19.0,Unlikely,19.0,0.0,2024-02-07,Yes,
+P165,SMB,59.0,Likely,74.0,25.0,2024-04-05,Yes - VP,
+P166,Mid-Market,139.0,Very likely,129.99,0.0,2024-04-11,No,
+P167,Startup,29.0,Very unlikely,59.0,10.0,2024-02-12,No,
+P168,Startup,68.0,Likely,58.99,25.0,2024-04-15,Yes - VP,
+P169,Startup,,Very likely,54.0,,2024-02-03,No,Price is fair if it replaces two tools.
+P170,SMB,89.0,Very likely,64.99,15.0,2024-03-02,unknown,We would need SSO before buying.
